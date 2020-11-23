@@ -1,0 +1,97 @@
+#backImage{
+     background-image: url(img/traditional-chinese.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+  
+}
+#menu{
+ background-color:  #e5d1ba;
+font-family: 'Ropa Sans', sans-serif;
+font-size: 1.2rem;
+}
+#menu>a{
+color: black;
+font-size: 1.2rem;
+}
+.appointementList{
+    color:#98c7bd
+       
+}
+#titleOpening{
+ z-index:-1;
+}
+#inscription{
+  color: #FFFFFF;
+ background-color: #98c7bd;
+ 
+}
+#inscriptionCol{
+    margin-top:7rem;
+   
+}
+
+#cardAddPatient{
+    border: 0.1rem solid;
+    border-color:#98c7bd;
+}
+#bottomLine{
+ background-color: #e5d1ba;
+   height: 0.4rem;
+  
+}
+.classTextColor{
+  color:  #98c7bd;
+  font-weight: bold;
+}
+
+#titleCardPatient{
+    font-size: 1.3rem;
+      color: #FFFFFF;
+ background-color: #98c7bd;
+}
+
+.paging{
+    
+}
+.patientButton{
+   background-color:  #e5d1ba;
+ 
+}
+.patientButtonHover{
+   background-color: #98c7bd;
+  color: #FFFFFF;
+}
+.patientButton>a{
+   background-color:  #e5d1ba;
+   color: black;
+}
+.patientButtonA{
+   background-color: #98c7bd;
+   color: #FFFFFF;
+}
+.page-link{
+       color: black;
+}
+.page-link:hover{
+       background-color: #98c7bd;
+          color: black;
+    
+}
+.page-link>a:active{
+      background-color: #98c7bd;
+          color: black;
+}
+.warningImg{
+    width:3rem;
+    margin-left: 1rem;
+}
+.addButton{
+    background: #98c7bd;
+    color:#FFFFFF;}
+
+.addButton>a{
+  
+    color:#FFFFFF;}
